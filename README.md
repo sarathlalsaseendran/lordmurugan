@@ -2,4 +2,4 @@
 
 Lord Murugan!
 
-![](./lord-murugan.jpg
+![](images/lord-murugan.jpg
