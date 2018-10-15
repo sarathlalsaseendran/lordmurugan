@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/azure/data-factory/v1/data-factory-data-management-gateway#install-the-gateway-from-download-center
