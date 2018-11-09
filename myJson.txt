@@ -1,0 +1,30 @@
+{
+  condition and,
+  rules [
+    {
+      field Topics1,
+      operator =,
+      value Risks1
+    },
+    {
+      field Topics2,
+      operator =,
+      value Risks2
+    },
+    {
+      condition and,
+      rules [
+        {
+          field CKDZones1,
+          operator =,
+          value Zone1
+        },
+        {
+          field CKDZones,
+          operator =,
+          value Zone2
+        }
+      ]
+    }
+  ]
+}
