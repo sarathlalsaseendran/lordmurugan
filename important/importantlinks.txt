@@ -1,0 +1,1 @@
+http://www.anotherchris.net/csharp/simplified-csharp-atom-and-rss-feed-parser/
