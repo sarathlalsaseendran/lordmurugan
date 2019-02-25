@@ -1,0 +1,9 @@
+mongod --replSet replMurugan --dbpath="C:\mongo-murugan\db1"
+mongod --replSet replMurugan --dbpath="C:\mongo-murugan\db2" --port 27027
+mongod --replSet replMurugan --dbpath="C:\mongo-murugan\db3" --port 27037
+
+rs.initialise()
+rs.status()
+
+rs.add("localhost:27027")
+rs.add("localhost:27037")
