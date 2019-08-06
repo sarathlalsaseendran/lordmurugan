@@ -1,2 +1,3 @@
 https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017#ssdt-for-vs-2017-standalone-installer 
 http://www.anotherchris.net/csharp/simplified-csharp-atom-and-rss-feed-parser/
+https://rukshan.dev/2019/05/how-to-notify-your-angular-7-app-using-signalr?
