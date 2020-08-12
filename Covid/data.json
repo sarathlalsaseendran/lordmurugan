@@ -1,0 +1,8 @@
+[
+    { "Location": "Mumbai", "Cases": 0 },
+    { "Location": "Madurai", "Cases": 0 },
+    { "Location": "Coimbatore", "Cases": 0 },
+    { "Location": "Chennai", "Cases": 3 },
+    { "Location": "Hyderabad", "Cases": 0 },
+    { "Location": "Kochi", "Cases": 1 },
+  ]
